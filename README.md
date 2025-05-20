@@ -78,69 +78,7 @@ To start, fork this repository to your own GitHub account by clicking the button
   <img src="https://github.com/XdKing2/MALVIN-XD/blob/main/assets/techwave.gif?raw=true" width="80%"/>
 </div>
 
-<h2 align="center">🚀 Deployment Options</h2>
 
-<div align="center">
-  <table cellspacing="20">
-    <tr>
-      <td align="center">
-        <a href="https://dashboard.heroku.com/new?template=https://github.com/XdKing2/MALVIN-XD" target="_blank">
-          <img src="https://img.shields.io/badge/Deploy%20to-Heroku-7A3E9D?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://app.koyeb.com/services/deploy?type=git&repository=XdKing3/MALVIN-XD" target="_blank">
-          <img src="https://img.shields.io/badge/Deploy%20to-Koyeb-FF2D95?style=for-the-badge&logo=koyeb&logoColor=white" alt="Koyeb"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://railway.app/new" target="_blank">
-          <img src="https://img.shields.io/badge/Deploy%20to-Railway-121212?style=for-the-badge&logo=railway&logoColor=white" alt="Railway"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://dashboard.render.com/web/new" target="_blank">
-          <img src="https://img.shields.io/badge/Deploy%20to-Render-00C7A9?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://app.netlify.com/" target="_blank">
-          <img src="https://img.shields.io/badge/Deploy%20to-Netlify-00ADB5?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://talkdrove.com" target="_blank">
-          <img src="https://img.shields.io/badge/Deploy%20via-TalkDrove-6B47FF?style=for-the-badge&logo=github&logoColor=white" alt="TalkDrove"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-
-  <p align="center">
-    <a href="https://whatsapp.com/channel/0029VajEAHf72WU27tvmzA41" target="_blank">
-      <img src="https://img.shields.io/badge/View_Workflows-90D366?style=for-the-badge&logo=git&logoColor=blue" alt="Workflow Codes"/>
-    </a>
-  </p>
-
-  <img src="https://github.com/XdKing2/MALVIN-XD/blob/main/assets/techwave.gif?raw=true" width="100%" alt="Divider"/>
-</div>
-<p align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" width="100%" />
-</p>
-
-## 📦 Download DSN TECHNOLOGY file
-
-> Get the latest bot zip file for panel deployment:
-
-[![Download ZIP](https://img.shields.io/badge/Download_MALVIN--XD-FF5722?style=flat-square&logo=github&logoColor=white)](https://github.com/XdKing2/MALVIN-XD/archive/refs/heads/main.zip)
-
-<p align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" width="100%" />
-</p>
 
 ### ⚠️ Disclaimer
 
