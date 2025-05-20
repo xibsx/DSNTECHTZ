@@ -14,22 +14,23 @@ malvin({
         const name = pushname || "there";
 
         const text = `
-╭─⌈ *𝗠𝗔𝗟𝗩𝗜𝗡-𝗫𝗗 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥* ⌋──
+╭─⌈ *DSN TECHNOLOGY * ⌋──
 │
 │ 👋 Hello *${name}*,
 │
-│ 🤖 I’m *𝙈𝘼𝙇𝙑𝙄𝙉-𝙓𝘿 own*, a multi-functional
+│ 🤖 I’m *DSN TECHNOLOGY own*, a multi-functional
 │    WhatsApp Bot built to assist you!
 │
 │ 👨‍💻 *OWNER DETAILS:*
 │ ───────────────
-│ 🧠 *Name* : Malvin King
-│ 🕯️ *Age* : +20
-│ ☎️ *Contact* : wa.me/+1(276) 698-8379
-│ ▶️ *YouTube* : Malvin King Tech (malvintech2)
-│    https://youtube.com/@malvintech2
+│ 🧠 *Name* : DSN TECHNOLOGY 
+| 🌐 *Website* : dsntechnology.site
+│ 🕯️ *Age* : +19
+│ ☎️ *Contact* : wa.me/255762720609
+│ 🗨️ *WhatsApp* : DSN TECHNOLOGY (DSNTECH)
+│    https://whatsapp.com/channel/0029VajEAHf72WU27tvmzA41
 │
-│ ⚡ Powered by *Malvin King*
+│ ⚡ Powered by *DSN TECHNOLOGY*
 │
 ╰───────────────
         `.trim();
@@ -37,7 +38,7 @@ malvin({
         await conn.sendMessage(
             from,
             {
-                image: { url: 'https://files.catbox.moe/vfv7n6.jpg' },
+                image: { url: 'https://files.catbox.moe/nek4nr.jpg' },
                 caption: text,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -45,18 +46,18 @@ malvin({
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363398430045533@newsletter',
-                        newsletterName: '🪀『 𝙼𝙰𝙇𝚅𝙸𝙽-𝚇𝙳 』🪀',
+                        newsletterName: '🪀『 DSN TECHNOLOGY 』🪀',
                         serverMessageId: 143
                     },
                     externalAdReply: {
-                        title: "Malvin-XD Bot",
-                        body: "Created with love by Malvin King",
-                        thumbnailUrl: 'https://files.catbox.moe/vfv7n6.jpg',
+                        title: "dsntech Bot",
+                        body: "Created with love by Dsn Technology",
+                        thumbnailUrl: 'https://files.catbox.moe/nek4nr.jpg',
                         mediaType: 1,
                         renderLargerThumbnail: true,
                         showAdAttribution: true,
-                        mediaUrl: "https://youtube.com/@malvintech2",
-                        sourceUrl: "https://youtube.com/@malvintech2"
+                        mediaUrl: "https://whatsapp.com/channel/0029VajEAHf72WU27tvmzA41",
+                        sourceUrl: "https://youtube.com/@dsn-technology?si=mRRmadkIU7rJZhY_"
                     }
                 }
             },
