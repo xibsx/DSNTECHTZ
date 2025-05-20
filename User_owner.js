@@ -1,8 +1,8 @@
 /*
-Project Name : MALVIN XMD
-Creator      : Malvin King ( Mr Lord Malvin )
-Repo         : https//github.com/kingmalvn/MALVIN-XMD
-Support      : wa.me/263714757857
+Project Name : Dsn Technology 
+Creator      : DSN TECHNOLOGY
+Repo         : https//github.com/DSNTECHTZ/DSNTECHTZ
+Support      : wa.me/255762720609
 */
 
 
@@ -39,7 +39,7 @@ async (conn, mek, m, { from }) => {
 
         // Send the owner contact message with image and audio
         await conn.sendMessage(from, {
-            image: { url: 'https://files.catbox.moe/v1rf80.jpg' }, // Image URL from your request
+            image: { url: 'https://files.catbox.moe/noe8fg.png' }, // Image URL from your request
             caption: `
 ╭┈┈┈───────┈┈┈┈┈┈┈┈┈
 ┊• *Here are the owner details*
