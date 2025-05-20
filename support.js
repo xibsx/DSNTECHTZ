@@ -1,8 +1,8 @@
 /*
-Project Name : MALVIN XD
-Creator      : Malvin King ( Mr Lord Malvin )
-Repo         : https://github.com/XdKing2/MALVIN-XD
-Support      : wa.me/263714757857
+Project Name : DSNTECH 
+Creator      : DSNTECH 
+Repo         : https://github.com/DSNTECHTZ/DSNTECHTZ
+Support      : wa.me/255762720609
 */
 
 const config = require('../settings');
@@ -28,7 +28,7 @@ malvin({
         
         let dec = `
 ╭────────────≫
-┋ 🌟 *ᴅᴇᴠᴇʟᴏᴘᴇʀ* : *ᴍʀ ᴍᴀʟᴠɪɴ (🇿🇼)* 🌍
+┋ 🌟 *ᴅᴇᴠᴇʟᴏᴘᴇʀ* : *ᴍʀ ᴍᴀʟᴠɪɴ (🇹🇿)* 🌍
 ┋ 🚀 *ᴍᴏᴅᴇ* : *${config.MODE}*
 ┋ ⚡ *ᴘʀᴇғɪx* : *${config.PREFIX}*
 ┋ 🧩 *ᴠᴇʀsɪᴏɴ* : ${config.version}
@@ -40,16 +40,16 @@ malvin({
 
 ${readMore}
 \`🔔 ᴄʜᴀɴɴᴇʟ🩵\`
-🔗 https://whatsapp.com/channel/0029VbA6MSYJUM2TVOzCSb2A
+🔗 https://whatsapp.com/channel/0029VajEAHf72WU27tvmzA41
 
 \`👥 ɢʀᴏᴜᴘ💙\`
-🔗 https://chat.whatsapp.com/Di4685k99JS5RGdS2Z4WMi
+🔗 https://whatsapp.com/channel/0029VajEAHf72WU27tvmzA41
 
 \`🎥 ʏᴛ ᴄʜᴀɴɴᴇʟ🚀\`
-🔗 https://youtube.com/@malvintech2
+🔗 https://youtube.com/@dsn-technology?si=wNMo9RzwDHk8XlIq
 
 \`💻 ᴍʀ ᴍᴀʟᴠɪɴ ᴋ\` *Developer🧑‍💻*
-🔗 wa.me/263714757857?text=Support!
+🔗 wa.me/255762720609?text=Support!
 
 > 🚀 *ᴊᴏɪɴ ᴍᴀʟᴠɪɴ xᴅ ᴄʜᴀɴɴᴇʟ* 🚀
 `;
@@ -57,7 +57,7 @@ ${readMore}
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://files.catbox.moe/bddvfr.jpg` },
+                image: { url: `https://files.catbox.moe/noe8fg.png` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -65,7 +65,7 @@ ${readMore}
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363398430045533@newsletter',
-                        newsletterName: '🪀『 𝙼𝙰𝙻𝚅𝙸𝙽-𝚇𝙳 』🪀',
+                        newsletterName: '🪀『 DSNTECH 』🪀',
                         serverMessageId: 143
                     }
                 }
@@ -86,4 +86,4 @@ ${readMore}
     }
 });
 
-//  MALVIN-XMD SC BY MR MALVIN K
+//  DSN TECHNOLOGY 
