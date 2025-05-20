@@ -55,18 +55,6 @@
 - 🚨 **Misuse may lead to account bans.**  
 - ❌ **Cloning or modifying the bot without permission is prohibited.**
 
----
-
-## 🗃️ PROJECT ARCHITECTS
-
-<p align="center">
-  <a href="https://github.com/DSNTECHTZ/DSNTECHTZ/">
-    <img src="https://github-readme-stats.vercel.app/api?username=XdKing2&show_icons=true&theme=radical">
-  </a>
-</p>
-<div align="center">
-  <img src="https://github.com/XdKing2/MALVIN-XD/blob/main/assets/futuretech.gif?raw=true" width="100%"/>
-</div>
 
 
 ## 🪀  SUPPORT CHANNELS
