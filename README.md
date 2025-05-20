@@ -2,11 +2,11 @@
 
 </div>
 <p align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" />
+  <img src="https://files.catbox.moe/nek4nr.jpg" />
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/qumhu4.jpg" />
+  <img src="https://files.catbox.moe/nek4nr.jpg" />
 </p>
 
 <!-- 📊 STATS & HERO ANIMATION (Updated Colors) -->
