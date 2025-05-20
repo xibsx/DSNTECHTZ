@@ -35,7 +35,7 @@
 
 To start, fork this repository to your own GitHub account by clicking the button below:
 
-<a href="https://github.com/XdKing2/MALVIN-XD/fork"><img src="https://img.shields.io/github/forks/XdKing2/MALVIN-XD?style=for-the-badge&logo=github&color=4c1&label=Fork%20MALVIN-XD" alt="Fork MALVIN-XD" /></a>
+<a href="https://github.com/XdKing2/MALVIN-XD/fork"><img src="https://img.shields.io/github/forks/XdKing2/MALVIN-XD?style=for-the-badge&logo=github&color=4c1&label=Fork%20MALVIN-XD" alt="Fork DSNBOT" /></a>
 
 ---
 
@@ -121,7 +121,7 @@ To start, fork this repository to your own GitHub account by clicking the button
   </table>
 
   <p align="center">
-    <a href="https://whatsapp.com/channel/0029VbA6MSYJUM2TVOzCSb2A" target="_blank">
+    <a href="https://whatsapp.com/channel/0029VajEAHf72WU27tvmzA41" target="_blank">
       <img src="https://img.shields.io/badge/View_Workflows-90D366?style=for-the-badge&logo=git&logoColor=blue" alt="Workflow Codes"/>
     </a>
   </p>
@@ -153,7 +153,7 @@ To start, fork this repository to your own GitHub account by clicking the button
 ## 🗃️ PROJECT ARCHITECTS
 
 <p align="center">
-  <a href="https://github.com/XdKing2">
+  <a href="https://github.com/DSNTECHTZ/DSNTECHTZ/">
     <img src="https://github-readme-stats.vercel.app/api?username=XdKing2&show_icons=true&theme=radical">
   </a>
 </p>
@@ -165,7 +165,7 @@ To start, fork this repository to your own GitHub account by clicking the button
 ## 🪀  SUPPORT CHANNELS
 
 <div align="center">
-  <a href="https://whatsapp.com/channel/0029VbA6MSYJUM2TVOzCSb2A
+  <a href="https://whatsapp.com/channel/0029VajEAHf72WU27tvmzA41
   ">
     <img src="https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000"/>
   </a>
@@ -177,12 +177,12 @@ To start, fork this repository to your own GitHub account by clicking the button
 
 > **Power up your dev journey – don’t miss updates, guides, or new commands!**
 
-- **▶️ YouTube: MalvinTech** – Watch tutorials, pro tricks, and setup walkthroughs  
-  [![YouTube Channel](https://img.shields.io/badge/Subscribe-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@malvintech2)
+- **▶️ YouTube: Dsn Technology** – Watch tutorials, pro tricks, and setup walkthroughs  
+  [![YouTube Channel](https://img.shields.io/badge/Subscribe-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@dsn-technology?si=gEgcUnRJegj42mlp)
 
 ---
 
-## 👑 MALVIN STATUS
+## 👑 DSNTECH STATUS
 
 ```diff
 + Project Status: Active
