@@ -1,7 +1,7 @@
 {
   "name": "DSN TECHNOLOGY",
   "description": "Javascript WhatsApp bot made by ᴍᴀʟᴠɪɴ ᴛᴇᴄʜ",
-  "logo": "https://files.catbox.moe/qumhu4.jpg",
+  "logo": "https://files.catbox.moe/nek4nr.jpg",
   "keywords": ["DSN TECHNOLOGY"],
   "success_url": "/",
 
@@ -132,7 +132,7 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://files.catbox.moe/juxfce.jpg"
+      "value": "https://files.catbox.moe/nek4nr.jpg"
     },
     
      "DESCRIPTION": {
