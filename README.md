@@ -15,13 +15,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=500&color=FF00FF&background=000000&center=true&vCenter=true&width=400&lines=🟢+Quantum+Pulse:+Alive;💬+Responding+to+your+messages;🚀+Deploying+WhatsApp+Bots;🔔+Always+Online!" alt="Quantum Pulse Animation">
 </p>
 
-<!-- Banner Image -->
-<p align="center">
-  <a href="https://files.catbox.moe/gn5ttq.jpg">
-    <img src="https://xibs.space" width="100%" height="auto">
-  </a>
-</p>
-
 <!-- Action Buttons -->
 <p align="center">
   <a href="https://www.ibrahimadams.site/scanner" target="_blank" rel="noopener noreferrer">
