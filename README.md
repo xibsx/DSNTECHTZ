@@ -1,4 +1,9 @@
-# 𝐙𝐄𝐍𝐈𝐓𝐇-𝐕𝟒
+<!-- More Button -->
+<p align="center">
+  <a href="https://bwmxmd.online" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/For%20more%2C%20Tap%20Here-00ffaa?style=for-the-badge&logo=internet-explorer&logoColor=white" width="340" height="50" alt="For more tap here"/>
+  </a>
+</p># 𝐙𝐄𝐍𝐈𝐓𝐇-𝐕𝟒
 
 <!-- Profile Card -->
 <p align="center">
